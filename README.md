@@ -13,6 +13,7 @@
 </div>
 
 <p align="left">I'm Vatcharathon Ruangsri</p>
+<div>
 
   ### Back-End Developer
 
@@ -22,7 +23,7 @@
   - 👨‍🎓 Currently: Computer Engineer Student at the <br>Rajamangala University of Technology Thanyaburi
 
   <img src='https://randommeme-five.vercel.app/' style="width: 300px;height: 300px;" align="right"/>
-
+</div>
 <br>
 <br>
 
