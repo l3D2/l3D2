@@ -87,7 +87,7 @@
 
 ###
 
-<img src"https://raw.githubusercontent.com/l3D2/l3D2/output/snake.svg" alt="Snake animation">
+![Snake animation](https://raw.githubusercontent.com/l3D2/l3D2/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
