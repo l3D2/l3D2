@@ -18,7 +18,7 @@
   ### Back-End Developer
 
   - 🌏 I'm from Thailand
-  - 💡 I'm interested about Software engineering, Full Stack Developer, and IoT
+  - 💡 I'm interested in Software engineering, Full Stack Developer, and IoT
   - ✨ I learning: React, Nodejs, Payment API & gateway
   - 👨‍🎓 Currently: Computer Engineer Student at the <br>Rajamangala University of Technology Thanyaburi
 
