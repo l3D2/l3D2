@@ -14,20 +14,14 @@
 
 <p align="left">I'm Vatcharathon Ruangsri</p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-
   ### Back-End Developer
 
   - 🌏 I'm from Thailand
   - 💡 I'm interesting about Software Engineer, Full Stack Developer and IoT
   - ✨ I learning: React, Nodejs, Payment api & gateway
   - 👨‍🎓 Currently: Computer Engineer Student at the <br>Rajamangala University of Technology Thanyaburi
-  </div>
-  <div>
-    <img src='https://randommeme-five.vercel.app/' style="width: 300px;height: 300px;"/>
-  </div>
-</div>
+
+  <img src='https://randommeme-five.vercel.app/' style="width: 300px;height: 300px;" align="right"/>
 
 <br>
 <br>
