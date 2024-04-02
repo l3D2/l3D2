@@ -79,7 +79,7 @@
 
 ##
 
-### Contact:
+### ✉️ Contact:
 
 - 📫 How to reach me: <a href="mailto:vatcharathon@gmail.com">email</a>
 - Other: <br>
