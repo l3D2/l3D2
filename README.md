@@ -20,7 +20,7 @@
 
   - 🌏 I'm from Thailand
   - 💡 I'm interested in Software engineering, Full Stack Developer, and IoT
-  - ✨ I learning: React, Nodejs, Payment API & gateway
+  - ✨ I am learning: React, IoT, Payment API & Gateway, Lua for Roblox
   - 👨‍🎓 Currently: Computer Engineer Student at the <br>Rajamangala University of Technology Thanyaburi
 
 <br>
