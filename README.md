@@ -7,7 +7,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/l3D2?style=flat)
 [![wakatime](https://wakatime.com/badge/user/018e7fbd-1d9e-4fd9-a903-4ca02b56ec4c.svg)](https://wakatime.com/@018e7fbd-1d9e-4fd9-a903-4ca02b56ec4c)
-[![wakatime](https://wakatime.com/badge/github/l3D2/l3D2.svg)](https://wakatime.com/badge/github/l3D2/l3D2)
+<!-- -->[![wakatime](https://wakatime.com/badge/github/l3D2/l3D2.svg)](https://wakatime.com/badge/github/l3D2/l3D2)
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat-square&color=0e75b6&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D25027%26project%3D%26in=0)](https://codetime.dev)
 [![](https://visitcount.itsvg.in/api?id=l3D2&icon=0&color=12)](https://visitcount.itsvg.in)
 
