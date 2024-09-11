@@ -16,11 +16,11 @@
 <p align="left">I'm Vatcharathon Ruangsri</p>
   <img src='https://randommeme-five.vercel.app/' style="width: 300px;height: 300px;" align="right"/>
 
-  ### Back-End Developer
+  ### Full Stack Developer
 
   - 🌏 I'm from Thailand
   - 💡 I'm interested in Software engineering, Full Stack Developer, and IoT
-  - ✨ I am learning: React, IoT, Payment API & Gateway, Lua for Roblox
+  - ✨ I am learning: React, IoT, Payment system, Lua for Roblox
   - 👨‍🎓 Currently: Computer Engineer Student at the <br>Rajamangala University of Technology Thanyaburi
 
 <br>
