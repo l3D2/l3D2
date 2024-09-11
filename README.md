@@ -18,7 +18,7 @@
   ### Full Stack Developer
 
   - 🌏 I'm from Thailand
-  - 💡 I'm interested in Software engineering, Full Stack Developer, and IoT
+  - 💡 I'm interested in Software Engineer, Full Stack Developer, Network Engineer, Cybersecurity, and IoT
   - ✨ I am learning: React, IoT, Payment system, Lua for Roblox
   - 👨‍🎓 Currently: Computer Engineer Student at the <br>Rajamangala University of Technology Thanyaburi
 
